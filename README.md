@@ -1,6 +1,6 @@
 # nosql-challenge
 ## Module 12 Challenge
-For this project I used PyMongo and Jupyter Notebook to evaluate the data of various establishments across the United Kingdom. 
+For this project I used PyMongo and Jupyter Notebook to evaluate the data of various establishments across the United Kingdom. You can view the code for Part 1 and Part 2 [here](https://github.com/isabellajade/nosql-challenge/blob/main/NoSQL_setup_starter.ipynb). To view the code for Part 3, click [here](https://github.com/isabellajade/nosql-challenge/blob/main/NoSQL_analysis_starter.ipynb). 
 
 ## Part 1 | Set Up
 In order to set up for this project I imported the JSON file with the data used for this project to MongoDB from my terminal. I then used PyMongo, Pandas, Jupyter Notebook, and MongoDB Compass to help me with my analysis.
